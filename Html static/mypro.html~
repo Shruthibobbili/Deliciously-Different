@@ -1,0 +1,43 @@
+<html>
+<head>
+<body>
+<h1 style="font-size:300%" align = "center"><i>Restaurent</i></h1>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Case</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <div>
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="second.html"target ="_blank">Menu</a></li>
+        <li><a href="gal.html">Gallery</a></li>
+           
+        <li><a href="Rec.html">Reciepe</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  
+
+  
+<img src="img15.jpg" width="800" height="500">
+
+<h3 class="page-title ">Our Story</h3>
+
+</body>
+</html>
+
